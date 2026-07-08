@@ -1,4 +1,4 @@
-# LuxureTV Downloader (Browser Extension)
+# LuxureTV Video Downloader (Browser Extension)
 
 > Download supported LuxureTV videos as MP4 files from the browser with direct quality selection.
 
@@ -12,7 +12,7 @@ LuxureTV Downloader is a browser extension for users who want a more direct way 
 
 ## Links
 
-- :rocket: Get it here: [LuxureTV Downloader](https://serp.ly/luxuretv-downloader)
+- :rocket: Get it here: [LuxureTV Downloader](https://serp.ly/luxuretv-downloader?via=github)
 - :new: Latest release: [GitHub Releases](https://github.com/serpapps/luxuretv-downloader/releases/latest)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/luxuretv-downloader/issues)
@@ -123,7 +123,7 @@ The extension only works on media you can already open and play in your active b
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/luxuretv-downloader](https://serp.ly/luxuretv-downloader)
+Start here: [https://serp.ly/luxuretv-downloader?via=github](https://serp.ly/luxuretv-downloader?via=github)
 
 ## Installation Instructions
 
